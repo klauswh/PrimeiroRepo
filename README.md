@@ -1,6 +1,6 @@
 # Primeiro Repositório
 
-O jogo da velha funciona como H1.
+O jogo da velha funciona como H1 (usei na primeira linha, ou seja, "Primeiro Repositório").
 Imagens são vinculadas com uma exclamação seguida da descrição da imagem entre colchetes e o nome do arquivo entre parênteses (./imagem.jpeg)
 
 ![Igreja](./imagem.jpeg)
