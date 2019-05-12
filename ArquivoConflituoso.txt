@@ -3,4 +3,8 @@ Versão base do arquivo conflituoso.
 No repositório PrimeiroRepo-PRIMEIRO, o arquivo foi incluído.
 
 
+<<<<<<< Aqui começa a alteração concorrente (decidi mudar a ordem...)
+Esta linha foi incluída a partir da segunda cópia do repositório...
+=======
 Esta linha foi incluída a partir da primeira cópia do repositório...
+>>>>>>> Aqui termina a alteração concorrente
