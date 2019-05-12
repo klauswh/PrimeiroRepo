@@ -1,1 +1,3 @@
-Primeiro arquivo para testes do GIT
+Incluí uma linha no início
+Primeiro arquivo dos testes do GIT
+E alterei a segunda linha (em outras palavras, excluí e incluí)
