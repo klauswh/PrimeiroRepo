@@ -4,5 +4,6 @@ Terceira linha
 Quarta linha (criada depois da criação da branch "branch2")
 Quinta linha (incluída na branch branch2 - conflito com a inclusão de linha na master)
 
-
+Alterações feitas no PrimeiroRepo-PRIMEIRO.
 Alterações feitas no PrimeiroRepo-SEGUNDO.
+
