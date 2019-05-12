@@ -9,5 +9,5 @@ Esta linha foi incluída a partir da segunda cópia do repositório...
 Esta linha foi incluída a partir da primeira cópia do repositório...
 >>>>>>> Aqui termina a alteração concorrente
 
+Alteração incluída na branch "novaBranch"... (resolvi o conflito mantendo somente esta linha; ela substitui as funcionalidades que foram commitadas diretamente na master)
 
-Esta linha foi incluída diretamente na master e isso deve gerar conflito com a branch "novaBranch"
