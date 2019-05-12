@@ -1,0 +1,5 @@
+Versão base do arquivo conflituoso.
+
+No repositório PrimeiroRepo-PRIMEIRO, o arquivo foi incluído.
+
+
