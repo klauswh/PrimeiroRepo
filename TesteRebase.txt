@@ -1,3 +1,4 @@
 Primeira linha
 Segunda linha
 Terceira linha
+Quarta linha (criada depois da criação da branch "branch2")
