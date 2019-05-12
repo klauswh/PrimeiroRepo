@@ -3,3 +3,4 @@ Versão base do arquivo conflituoso.
 No repositório PrimeiroRepo-PRIMEIRO, o arquivo foi incluído.
 
 
+Esta linha foi incluída a partir da segunda cópia do repositório...
