@@ -1,3 +1,4 @@
 Incluí uma linha no início
 Primeiro arquivo dos testes do GIT
+Incluí uma linha no meio na branch "novaBranch"
 E alterei a segunda linha (em outras palavras, excluí e incluí)
