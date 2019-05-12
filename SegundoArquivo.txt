@@ -1,4 +1,5 @@
 Novo arquivo
 - Linha 1
+- Linha 2 (incluída novamente direto na master...)
 - Linha 3
 - Linha 4
