@@ -8,3 +8,6 @@ Esta linha foi incluída a partir da segunda cópia do repositório...
 =======
 Esta linha foi incluída a partir da primeira cópia do repositório...
 >>>>>>> Aqui termina a alteração concorrente
+
+
+Esta linha foi incluída diretamente na master e isso deve gerar conflito com a branch "novaBranch"
