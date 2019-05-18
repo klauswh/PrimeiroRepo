@@ -1,5 +1,10 @@
 Linha 10 - Incluída na Master
+Linha 11 - Incluída na branch OS-20
 Linha 20 - Incluída na Master
+Linha 21 - Incluída na branch OS-20
 Linha 30 - Incluída na Master
+Linha 31 - Incluída na branch OS-20
 Linha 40 - Incluída na Master
+Linha 41 - Incluída na branch OS-20
 Linha 50 - Incluída na Master
+Linha 51 - Incluída na branch OS-20
